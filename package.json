@@ -1,0 +1,20 @@
+{
+  "name": "ts-micro-bundler",
+  "version": "1.0.0",
+  "description": "Zero-dependency ES module bundler with tree-shaking in TypeScript",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "bundler", "esm", "tree-shaking", "tooling"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-micro-bundler.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
